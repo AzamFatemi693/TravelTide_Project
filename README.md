@@ -1,5 +1,7 @@
 # TravelTide_customer_segmentation_Analytics
 The following Jupyter Notebook presents a comprehensive Exploratory Data Analysis (EDA) and Fuzzy Segmentation analysis for TravelTide, an imaginary company that specializes in the travel industry. This repository offers a detailed examination of the company's data and employs fuzzy segmentation techniques to gain valuable insights.
+
+
 ![image](image.png)
 
 ## Background
